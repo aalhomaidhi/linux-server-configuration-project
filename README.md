@@ -187,8 +187,6 @@ http://3.121.185.102
 8. Authorized redirect URIs =
 ```` 
 http://ec2-3-121-185-102.eu-central-1.compute.amazonaws.com/oauth2callback	
-http://ec2-3-121-185-102.eu-central-1.compute.amazonaws.com/gconnect	
-http://ec2-3-121-185-102.eu-central-1.compute.amazonaws.com/login	
 
 ````
 9. Select save
