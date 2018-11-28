@@ -193,7 +193,11 @@ http://ec2-3-121-185-102.eu-central-1.compute.amazonaws.com/oauth2callback
 
 ## Resources 
 thanks to digital ocean for this source , that helps me alot :
+
+
 https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+and 
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 
 
