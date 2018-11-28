@@ -193,5 +193,10 @@ http://ec2-3-121-185-102.eu-central-1.compute.amazonaws.com/login
 ````
 9. Select save
 
+## Resources 
+thanks to digital ocean for this source , that helps me alot :
+https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+
+
 
 
